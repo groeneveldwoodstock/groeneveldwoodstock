@@ -20,4 +20,6 @@ Here are some completed projects that are available on itch.io.
 </p>
 
 [![Explore the Gardens by Groeneveld](https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ExploreTheGardensItch.png)](https://groeneveld.itch.io/explore-the-gardens)
+[![Tribbles by Groeneveld](https://github.com/groeneveldwoodstock/Tribbles/blob/main/tribbles.itch.png)](https://groeneveld.itch.io/tribbles)
 </p>
+
