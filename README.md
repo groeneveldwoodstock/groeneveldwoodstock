@@ -15,3 +15,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=groeneveldwoodstock&show_icons=true&locale=en&layout=compact" alt="groeneveldwoodstock" /></p>
 
+<p>
+Here are some completed projects that are available on itch.io.
+</p>
+
+[![Explore the Gardens by Groeneveld](https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ExploreTheGardensItch.png)](https://groeneveld.itch.io/explore-the-gardens)
+</p>
