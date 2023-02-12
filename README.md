@@ -6,7 +6,7 @@
 
 - Some my projects are available at <a href="https://github.com/groeneveldwoodstock?tab=repositories" target="_blank">My Repositories</a>
 
-- I am an Apple Developer: <a href="https://apps.apple.com/us/developer/richard-groeneveld/id1667267634" target="_blank">Richard Groeneveld: Apple Developer</a>
+- My Apple Developer Page: <a href="https://apps.apple.com/us/developer/richard-groeneveld/id1667267634" target="_blank">Richard Groeneveld: Apple Developer</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
